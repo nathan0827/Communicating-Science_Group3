@@ -1,0 +1,43 @@
+Machine Learning: Introduction to Machine Learning and Statistics
+Group 3: Haoxuan Meng & Yubo Xu & Nannan Huang & Haoyu Liu & Yan Yan
+For A-Level Students
+
+1.	background
+1950s: The concept of artificial intelligence was proposed.
+1980s: The rise of machine learning research.
+2010s: Deep learning technology innovation.
+
+2.	What is machine learning？
+Have you ever watched a child learn how to walk?They will initially stagger to their feet and then fall. Then they try again until they stabilize and start walking. Machine learning is very similar to this little child learning to walk. It's just done by a computer algorithm. By analyzing and utilizing data, computer systems can automatically learn and improve.
+
+3.	methods
+Machine learning algorithms can be classified according to types of problems, model and the way they learn. 
+
+Problem Types: 
+Includes classification (assigning data to predefined categories) and regression (predicting a continuous value).
+
+Model Types:
+Batch Learning: model learns from entire dataset at once.
+Online Learning: model continuously updates as new data arrives.
+Mini-Batch Learning: model iterates over small subsets of data.
+
+Learning Approaches:
+Supervised Learning: model learns from labeled data for predictions.
+Unsupervised Learning: The model discovers patterns in unlabeled data.
+
+4.	How to apply ？
+Imagine a magical box that predicts the future trade value of your football cards. It uses past trends, current demand, and upcoming school events to make its predictions. Think of it as a game where gathering these clues helps you decide the best time to trade. The clues this treasure chest needs to collect include: 
+
+1. the exchange value of the football cards over the past 60 days at swap meets
+2. whether the school is about to have a football match
+3. recent football news because a star player's outstanding performance could make his card very much in demand.
+
+The more it predicts, the better it gets, just like leveling up in a game. With its guidance, you can trade your card at the right time to maximize your swap.
+
+5.	High-level technology
+Computer Vision 
+Machine learning has revolutionized computer vision. Object detection is a crucial application in computer vision, and the You Only Look Once (YOLO) algorithm is a notable example. YOLO is an efficient system for real-time object detection. It uses neural network to extract features and understand complex scenes.
+
+6.	Summary
+Join us now ！
+Machine learning is both a fascinating and useful technique that not only allows us to predict future trends or classifications using a variety of data from our daily lives, but also enhances academic skills and future job prospects.
