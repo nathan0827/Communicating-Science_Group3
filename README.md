@@ -1,2 +1,2 @@
 # Communicating-Science_Group3
-Submission
+Submission of the assignment "Communicating-Science"-----Poster
